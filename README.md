@@ -1,4 +1,5 @@
-# Sem-3-Project-TMDb-Movie-Analysis-and-Modeling
+<h1 align="center">TMDb Movie Analysis and Comparative Modeling</h1>
+
 
 ### Abstract:
 
